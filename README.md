@@ -2,7 +2,7 @@
 AI-powered study assistant to help students learn better.
 
 ## 🎥 Demo Video
-👉 [Click Here to Watch Demo Video](https://drive.google.com/file/d/1hZSruvbqi82CESPkQ8Q8VDO5_bBhhb3V/view?usp=sharing)
+[🎥 Click Here to Watch Demo Video](https://drive.google.com/file/d/1V-x5RuA1kbaIFLl3RwXFYz_J2ufFTVk/view?usp=sharing)
 
 ## 🚀 Features
 - User Authentication (JWT)
