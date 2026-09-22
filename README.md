@@ -2,9 +2,11 @@
 AI-powered study assistant to help students learn better.
 
 ## 🎥 Demo Video
-[🎥 Click Here to Watch Demo Video](https://drive.google.com/file/d/1V-x5RuA1kbaIFLl3RwXFYz_J2ufFTVk/view?usp=sharing)
+ ## Project Documentation
 
-## 🚀 Features
+The complete project documentation is available here:
+
+[View AI Study Buddy Project Document](https://drive.google.com/file/d/1V-x5RuN1kbaIfLL3RwXFXYz_J2ufTFVk/view?usp=drivesdk)
 - User Authentication (JWT)
 - Study Notes Generation
 - AI Chat Support
